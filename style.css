@@ -1,0 +1,178 @@
+body {
+    background-image: url(/IMG/Pag/modelo\ pagiina.png);
+    background-size: cover; /* ajusta a imagem para cobrir toda a área de fundo */
+    background-repeat: no-repeat; /* impede a repetição da imagem */
+    background-position: center center; /* centraliza a imagem no fundo */
+}
+
+.btc{
+    border: #693BC0;
+    position: absolute ;
+}
+
+.btc{
+    color: #693BC0;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.btc{
+    margin: 0% 30% 0% 40%;
+}
+
+.redes{
+    gap: 3%;
+}
+
+.redes{
+    text-decoration: none;
+}
+
+
+.cursor-personalizado {
+    cursor: url('https://via.placeholder.com/32'), auto; /* URL para uma imagem de cursor personalizada */
+}
+
+.navbar-brand{
+    color: #693BC0;
+    font-weight: bold;
+}
+
+.textosobremim{
+    color: #7B54BB;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    margin: 0% 0% 1% 0%;
+}
+
+.texto1{
+    margin: 0% 15% 0% 20%;
+}
+
+.bt{
+    color-scheme: #fff;
+}
+
+.bt{
+    color: #693BC0;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 15px;
+    border: 2px solid #693BC0;
+    border-radius: 5px;
+    display: inline-flex;
+}
+
+.bt{
+    margin: 0% 0% 3% 80%;
+}
+
+.textoprogramaçãoweb{
+    color: #7B54BB;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+ }
+ .textoprogramaçãoweb{
+    margin: 10% 0% 3% 0%;
+ }
+
+ .card1{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.card1:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.card1{
+margin: 0% 0% 0% 22%;
+}
+
+.card1{
+    gap: 1%;
+    display: inline-block;
+}
+
+.card2{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.card2:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.card2{
+margin: 0% 0% 10% 5%;
+}
+
+.card2{
+    gap: 1%;
+    display: inline-block;
+}
+
+.btncardweb1{  
+    color: #693BC0;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-flex;
+    text-decoration: dashed;
+   
+}
+
+.btncardweb1{
+    margin: 0% 0% 0% 65%;
+}
+
+.btncardweb2{
+    margin: 16% 0% 0% 65%;
+}
+
+.btncardweb2{  
+    color: #693BC0;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-flex;
+    text-decoration: dashed;
+   
+}
+
+.webcardtitulo{
+    color: #693BC0
+}
+
+
+.textocard{
+    margin: 0% 0% 0% 4%;
+}
+
+.contato{
+    gap: 2px;
+    display: flex
+}
+
+.txcontato{
+    margin: 3% 0% 0% 47%;
+    font-weight: bold;
+    color: #fff;
+
+}
+
+ .contato{
+    margin: 2% 0% 0% 25%;
+ }
+ 
+ .contato1{
+    background-color: #7B54BB;
+ }
